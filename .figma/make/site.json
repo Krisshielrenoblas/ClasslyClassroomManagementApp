@@ -1,0 +1,10 @@
+{
+  "description": "Classly streamlines classroom management for Philippine schools by integrating attendance tracking, video conferencing, test scanning, and exam creation into one user-friendly platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
